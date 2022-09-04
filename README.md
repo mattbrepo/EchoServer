@@ -6,4 +6,4 @@ Simple Echo Tcp Server
 **Start: 2015**
 
 ## Why
-Sometimes it turns out to be very helpful to have a simple Echo Server capable to answer you on a specific port.
+Sometimes it turns out to be very helpful to have a simple Echo Server capable to answer you on a specific TCP port.
